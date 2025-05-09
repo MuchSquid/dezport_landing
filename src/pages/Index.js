@@ -44,7 +44,7 @@ export default function Index() {
       <IndexSectionTestimonialsWhitePattern8 />
       <IndexSectionFaqsWhitePattern10 />
       <IndexSectionCtaWhitePattern4 />
-      <IndexSectionFootersWhitePattern5 />
+      <IndexSectionFootersWhitePattern5 />  
     </React.Fragment>
   );
 }
